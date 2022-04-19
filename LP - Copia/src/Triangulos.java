@@ -11,7 +11,7 @@ public class Triangulos {
     System.out.println("Declare o valor de c: ");
     int c = in.nextInt();
      // && = e || = ou
-    if(a == b && a == c && b == c){
+    if(a == b && b == c){
     System.out.println("Triângulo Equilátero");
     //Equilátero quando possui todos os lados iguais.
     }
