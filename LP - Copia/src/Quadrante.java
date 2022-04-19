@@ -11,7 +11,7 @@ public class Quadrante {
     if(x>=0 && y>=0){
     System.out.println("Primeiro Quadrante");
     }
-    if(x<=0 && y>=0){
+    if(x<=0 && y<=0){
     System.out.println("Segundo Quadrante");
     }
     if(x<=0 && y<=0){
