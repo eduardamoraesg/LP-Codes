@@ -9,8 +9,8 @@ public class Triangulos {
     System.out.println("Declare o valor de b: ");
     int b = in.nextInt();
     System.out.println("Declare o valor de c: ");
-    // && = e || = ou
     int c = in.nextInt();
+     // && = e || = ou
     if(a == b && a == c && b == c){
     System.out.println("Triângulo Equilátero");
     //Equilátero quando possui todos os lados iguais.
